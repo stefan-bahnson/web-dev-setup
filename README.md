@@ -2,6 +2,9 @@
 
 ![alt tag](screenshot.png)
 
+### Includes
+Webpack Dev Server, jQuery, ES2015 support and SASS support.
+
 ### Prerequisites
 - Install node.js <https://nodejs.org>
 
